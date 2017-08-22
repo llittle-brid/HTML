@@ -738,6 +738,36 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     border-color: #ccc
 }
 
+
+
+
+.btn-Bblack {
+    background-color: #000000;
+    border-color: #000000;
+    color: #FFF
+}
+
+.btn-Bblack.active, .btn-Bblack:active, .btn-Bblack:focus, .btn-Bblack:hover, .open .dropdown-toggle.btn-Bblack {
+    background-color: #383838;
+    border-color: #383838;
+    color: #FFF
+}
+
+.btn-Bblack.active, .btn-Bblack:active, .open .dropdown-toggle.btn-Bblack {
+    background-image: none
+}
+
+.btn-Bblack.active[disabled], .btn-Bblack.disabled, .btn-Bblack.disabled.active, .btn-Bblack.disabled:active, .btn-Bblack.disabled:focus, .btn-Bblack.disabled:hover, .btn-Bblack[disabled], .btn-Bblack[disabled]:active, .btn-Bblack[disabled]:focus, .btn-Bblack[disabled]:hover, fieldset[disabled] .btn-Bblack, fieldset[disabled] .btn-Bblack.active, fieldset[disabled] .btn-Bblack:active, fieldset[disabled] .btn-Bblack:focus, fieldset[disabled] .btn-Bblack:hover {
+    background-color: #565656;
+    border-color: #565656
+}
+
+
+
+
+
+
+
 .btn-warning {
     background-color: #f8ac59;
     border-color: #f8ac59;
@@ -4152,10 +4182,10 @@ body.modal-open {
 }
 
 .middle-box {
-    max-width: 400px;
+    max-width: 460px;
     z-index: 100;
     margin: 0 auto;
-    padding-top: 40px
+    padding-top: 120px
 }
 
 .lockscreen.middle-box {
@@ -4164,7 +4194,7 @@ body.modal-open {
 }
 
 .loginscreen.middle-box {
-    width: 300px
+    width: 360px
 }
 
 .loginColumns {
