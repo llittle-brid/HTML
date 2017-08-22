@@ -33,3 +33,11 @@
     border-left: none;
     border-right: none;
 }
+
+.zFont1{
+    font-family: 'Arial Negreta', 'Arial Normal', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    color: #45667E;
+}
