@@ -50,6 +50,24 @@
     line-height: 16px;
     ;
 }
+.zFont4{
+    text-shadow: #717171;
+    text-decoration-color: #486c82;
+    color: #486c82;
+    line-height: 16px;
+    font-weight: lighter;
+
+}
+.zFont5{
+    font-size: 15px;
+    box-shadow: none;
+    font-family: 'Arial Negreta', 'Arial Normal', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    color: #CC0000;
+}
+
+
 .inputOpacity{
 
    background-color: transparent;
