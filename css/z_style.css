@@ -38,6 +38,29 @@
     font-family: 'Arial Negreta', 'Arial Normal', 'Arial';
     font-weight: 700;
     font-style: normal;
-    font-size: 14px;
+    font-size: 18px;
     color: #45667E;
+
+}
+.zFont2{
+    color: #486c82;
+    line-height: 16px;
+}
+.zFont3{
+    line-height: 16px;
+    ;
+}
+.inputOpacity{
+
+   background-color: transparent;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    vertical-align:top;
+}
+.showLine{
+    background: #CCCCCC;
+    height: 2px;
+
 }
