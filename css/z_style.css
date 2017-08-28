@@ -48,6 +48,13 @@
     color: #486c82;
 
 }
+.zFont3{
+    font-family: 'Arial Negreta', 'Arial Normal', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    color: #009900;
+}
 
 .zFont4{
     text-shadow: #717171;
@@ -65,7 +72,13 @@
     font-style: normal;
     color: #CC0000;
 }
-
+.zFont6{
+    font-family: 'Arial Negreta', 'Arial Normal', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    color: #45667E;
+}
 
 .inputOpacity{
 
