@@ -1,0 +1,14 @@
+.zw_user {
+    position: relative;
+    color: rgb(51, 51, 51);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    transform-origin: 42.5px 12px;
+    word-wrap: break-word;
+}
+#zw_info {
+    color: rgb(13, 8, 7);
+    font-size: 18px;
+
+}
