@@ -2,12 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb36c5e-2aa2-4e68-bde2-dd4335ecad38" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/u410.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/u413.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/u419.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/GET" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/agile_board.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/badges_labels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/basic_gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/blueimp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/chat_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/clients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/code_editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/contacts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/css_animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/diff.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/draggable_panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/empty_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/file_manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/fontawesome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_advanced.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_avatar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_builder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_editors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_file_upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_markdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_simditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_validate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_webuploader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/form_wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/forum_main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/forum_post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/glyphicons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_echarts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_flot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_metrics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_morris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_peity.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_rickshaw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/graph_sparkline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/grid_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/iconfont.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_v1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_v148b2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_v3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_v4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/index_v5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/invoice_print.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/javascript;.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/jstree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/layerdate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/layouts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/lockscreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/login_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/mail_compose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/mail_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/mailbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/modal_window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/nestable_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/notifications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/pin_board.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/plyr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/project_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/projects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/search_results.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/social_feed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/spinners.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/suggest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/sweetalert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/table_basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/table_bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/table_data_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/table_foo_table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/table_jqgrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/tabs_panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/teams_board.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/timeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/timeline_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/toastr_notifications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/tree_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/tree_view_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/webim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examlpe/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/login_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/project_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/project_list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/zhiwei_style.css" afterPath="$PROJECT_DIR$/css/zhiwei_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhiwei_personalcenter.html" afterPath="$PROJECT_DIR$/zhiwei_personalcenter.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,13 +119,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zhiwei_personalcenter.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zhiwei_personalcenter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zhiwei_personalcenter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+            <state relative-caret-position="1824">
+              <caret line="126" column="25" lean-forward="false" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -74,11 +175,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="project_edit.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/project_edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GET" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examlpe/GET">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="zhiwei_style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/zhiwei_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="208">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -122,11 +243,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="761" />
-    <option name="y" value="328" />
-    <option name="width" value="919" />
-    <option name="height" value="722" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -145,27 +266,20 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +290,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webstrom workspace\HTML" />
+      <recent name="E:\webstrom workspace\HTML\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webstrom workspace\HTML" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -191,6 +310,68 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -212,6 +393,7 @@
       <workItem from="1508659394048" duration="1508000" />
       <workItem from="1508661128774" duration="501000" />
       <workItem from="1508675406740" duration="6196000" />
+      <workItem from="1508905833481" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="修改名称">
       <created>1508566483972</created>
@@ -245,21 +427,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31340000" />
+    <option name="totallyTimeSpent" value="31644000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1904762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12591508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -271,7 +452,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -287,6 +468,65 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zhiwei_personalcenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2273#2279#1" expanded="true" />
+            <element signature="e#2407#2413#1" expanded="true" />
+            <element signature="e#2448#2454#1" expanded="true" />
+            <element signature="e#2585#2591#1" expanded="true" />
+            <element signature="e#2626#2632#1" expanded="true" />
+            <element signature="e#3448#3454#1" expanded="true" />
+            <element signature="e#3489#3495#1" expanded="true" />
+            <element signature="e#3530#3536#1" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4936#4942#1" expanded="true" />
+            <element signature="e#4977#4983#1" expanded="true" />
+            <element signature="e#5018#5024#1" expanded="true" />
+            <element signature="e#5059#5065#1" expanded="true" />
+            <element signature="e#5100#5106#1" expanded="true" />
+            <element signature="e#5141#5147#1" expanded="true" />
+            <element signature="e#5182#5188#1" expanded="true" />
+            <element signature="e#5223#5229#1" expanded="true" />
+            <element signature="e#5264#5270#1" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#10;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#10;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#11;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#11;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6151#6157#1" expanded="true" />
+            <element signature="e#6192#6198#1" expanded="true" />
+            <element signature="e#6233#6239#1" expanded="true" />
+            <element signature="e#6274#6280#1" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#13;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#13;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7153#7159#1" expanded="true" />
+            <element signature="e#7194#7200#1" expanded="true" />
+            <element signature="e#7235#7241#1" expanded="true" />
+            <element signature="e#7276#7282#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/zhiwei_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zhiwei_personalcenter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -779,7 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-37">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,22 +1047,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/zhiwei_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="208">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zhiwei_personalcenter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+        <state relative-caret-position="1824">
+          <caret line="126" column="25" lean-forward="false" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -871,6 +1106,22 @@
             <element signature="e#7235#7241#1" expanded="true" />
             <element signature="e#7276#7282#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/project_edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examlpe/GET">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
