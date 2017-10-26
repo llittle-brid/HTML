@@ -27,23 +27,24 @@
 
 <div class="wrapper wrapper-content">
     <div class="row">
-        <div class="col-sm-12" style="margin-left: 50px;margin-top: 20px">
+        <div class="col-sm-12" style="margin-left: 10px;margin-top: 20px">
             <div class="col-sm-2" >
                 <nav class="navbar-default navbar-static-side" role="navigation">
                     <div class="nav-close"><i class="fa fa-times-circle"></i>
                     </div>
                     <div class="sidebar-collapse ">
                         <ul class="nav" id="side-menu">
-
-                            <li class="li_head">
+                                <div class="ibox-title" style="border-bottom: solid #e7eaec thin">
+                            <li class="li_head black">
                                 <span class="block m-t-xs"><strong class="font-bold">需求开发文档</strong></span>
                             </li>
                             <li class="li_fun">
-                                <span class="li_add fa col-md-offset-1  fa-plus " data-toggle="modal" data-target="#myModal" ></span>
-                                <span class="li_down fa col-md-offset-1  fa-arrow-down" title="上移目录"></span>
-                                <span class="li_up fa col-md-offset-1  fa-arrow-up" title="下移目录"></span>
-                                <span class="li_delete fa col-md-offset-1  fa-times" title="删除目录"></span>
+                                <span class="li_add li_fa fa col-md-offset-1  fa-plus black" data-toggle="modal" data-target="#myModal" ></span>
+                                <span class="li_down li_fa fa col-md-offset-1  fa-arrow-down black" title="上移目录"></span>
+                                <span class="li_up fa li_fa col-md-offset-1  fa-arrow-up black" title="下移目录"></span>
+                                <span class="li_delete li_fa fa col-md-offset-1  fa-times showtoastr black" title="删除目录"></span>
                             </li>
+                                </div>
 
                             <li>
                                 <a href="#" class="dic">
@@ -227,7 +228,7 @@
                     </div>
                 </div>
             </div>
-
+            <!--中间部分开始-->
             <div class="col-md-7" >
                 <div class="main"><h2>1.引言</h2></div>
                 <div class="row">
@@ -267,6 +268,7 @@
                                     <div class="ibox-title">
                                         <h5>我的留言</h5>
                                         <div class="ibox-tools">
+                                            <button  class="btn btn-primary  btn-xs col-lg-push-1" 、 type="button" style="margin-right: 10px">上传附件</button>
                                         <button  class="btn btn-primary  btn-xs col-lg-push-1" onclick="save()" type="button" style="margin-right: 10px">发布</button>
                                         </div>
                                     </div>
@@ -325,9 +327,34 @@
                     </div>
                 </div>
             </div>
+            <!--中间部分结束-->
+            <!--右侧部分开始-->
+            <div class="col-sm-3">
+                <div class="ibox float-e-margins">
+                    <div class="ibox-title">
+                        <h5>构件库</h5>
+                        <div class="ibox-tools">
+                            <a class="collapse-link">
+                                <i class="fa fa-chevron-up"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="ibox-content">
+                       <!--构件库中间部分开始-->
+                            <div class="form-group">
+                                <select class="form-control" name="">
+                                    <option>通用模板构件库</option>
+                                    <option>用例模板构件库</option>
+                                    <option>用户模板构件库</option>
+                                    <option>图片模板构件库</option>
+                                </select>
+                            </div>
+                        <!--构件库中间部分结束-->
+                    </div>
+                </div>
+            </div>
+            <!--右侧部分结束-->
         </div>
-
-
         </div>
     </div>
 </div>
@@ -409,10 +436,26 @@
 <script src="../js/plugins/summernote/summernote-zh-CN.js"></script>
 <script>
 //    $(document).ready(function(){$(".summernote").summernote({lang:"zh-CN"})});
-    var temp_edit=function(){$("#eg").addClass("no-padding");$(".click1edit").summernote({lang:"zh-CN",focus:true})};
+    var temp_edit=function(){$("#eg").addClass("no-padding");$(".click1edit").summernote({lang:"zh-CN",focus:true,toolbar: [
+        ['style', ['bold', 'italic', 'underline', 'clear']],
+        ['fontsize', ['fontsize']],
+        ['color', ['color']],
+        ['para', ['paragraph']],
+        ['table', ['table']],
+        ['picture', ['picture']],
+        ['fullscreen', ['fullscreen']]
+    ]})};
     var temp_save=function(){$("#eg").removeClass("no-padding");
     var aHTML=$(".click1edit").code();$(".click1edit").destroy()};
-    var edit=function(){$("#eg").addClass("no-padding");$(".click2edit").summernote({lang:"zh-CN",focus:true})};
+    var edit=function(){$("#eg").addClass("no-padding");$(".click2edit").summernote({lang:"zh-CN",focus:true,toolbar: [
+        ['style', ['bold', 'italic', 'underline', 'clear']],
+        ['fontsize', ['fontsize']],
+        ['color', ['color']],
+        ['para', ['paragraph']],
+        ['table', ['table']],
+        ['picture', ['picture']],
+        ['fullscreen', ['fullscreen']]
+    ]})};
     var save=function(){$("#eg").removeClass("no-padding");
     var aHTML=$(".click2edit").code();};
     $(document).ready(function () {
