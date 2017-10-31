@@ -18,3 +18,7 @@ textarea {
     border: none;
     resize: none;
 }
+#search {
+    text-align: center;
+}
+
