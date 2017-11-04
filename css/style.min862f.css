@@ -54,8 +54,8 @@ a:focus {
 }
 
 .navbar-default .nav > li > a:focus, .navbar-default .nav > li > a:hover {
-    background-color: #293846;
-    color: #fff
+    background-color: #6D8389;
+    color: #000
 }
 
 .nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
@@ -183,8 +183,8 @@ body.body-small .navbar-top-links li:last-child {
 }
 
 .nav > li.active {
-    border-left: 4px solid #19aa8d;
-    background: #293846
+    border-left: 4px solid #171a1999;
+    background: #3e4c5a33
 }
 
 .nav.nav-second-level > li.active {
@@ -6642,7 +6642,7 @@ body.skin-3 {
 }
 
 .navbar-static-side {
-    background: #2f4050
+    background: #FFFFFF;
 }
 
 .nav-close {
