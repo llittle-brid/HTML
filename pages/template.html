@@ -235,10 +235,12 @@
                         <div class="ibox float-e-margins">
                             <div class="ibox-title">
                                 <h5>1.1编写目的</h5>
+
                                 <button id="edit" class="btn btn-primary btn-xs m-l-sm" onclick="temp_edit()" type="button">编辑</button>
-                                <button id="save" class="btn btn-primary  btn-xs" onclick="temp_save()" type="button">保存</button>
+                                <button id="save" class="btn btn-primary  btn-xs m-l-sm" onclick="temp_save()" type="button" style="display:none;">保存</button>
                                 <div class="ibox-tools">
-                                    <i class="fa fa-commenting modal-icon" style="color: #26d7d9"  data-toggle="modal" data-target="#myModal1" > </i>
+                                    <button  class="btn btn-primary  btn-xs col-lg-push-1" 、 type="button" style="margin-right: 10px">上传附件</button>
+                                    <i class="fa fa-commenting modal-icon" style="color: #6D8389"  data-toggle="modal" data-target="#myModal1" > </i>
                                 </div>
                             </div>
                             <div class="ibox-content">
@@ -285,7 +287,7 @@
                                 <div class="ibox float-e-margins" style="margin-bottom: 10px">
                                     <div class="ibox-title">
                                         <h5>大毛同学 2017-2-6 17:15:56 </h5>
-                                        <button  class="btn btn-danger  btn-xs col-lg-push-1" onclick="save()" type="button" style="margin-top: -3px">删除</button>
+                                        <button  class="btn btn-danger  btn-xs col-lg-push-1 m-l-sm" onclick="save()" type="button" style="margin-top: -3px">删除</button>
                                         <div class="ibox-tools">
                                             <i class="fa fa-file-text-o " style="color: #26d7d9"  title="下载"> 附件：内容摘要.doc</i>
                                         </div>
@@ -304,7 +306,7 @@
                                 <div class="ibox float-e-margins" style="margin-bottom: 10px">
                                     <div class="ibox-title">
                                         <h5>大毛同学 2017-2-6 13:15:56 </h5>
-                                        <button  class="btn btn-default  btn-xs col-lg-push-1" onclick="save()" type="button" style="margin-top: -3px">删除</button>
+                                        <button  class="btn btn-default  btn-xs col-lg-push-1 m-l-sm" onclick="save()" type="button" style="margin-top: -3px">删除</button>
                                         <div class="ibox-tools">
                                             <i class="fa fa-file-text-o " style="color: #26d7d9"  title="下载"> 附件：如何斗地主.doc</i>
                                         </div>
@@ -322,7 +324,6 @@
 
                         <div class="modal-footer">
                             <button type="button" class="btn btn-white" data-dismiss="modal">关闭</button>
-                            <button type="button" class="btn btn-primary showtoastr" data-dismiss="modal">新增</button>
                         </div>
                     </div>
                 </div>
@@ -444,9 +445,14 @@
         ['table', ['table']],
         ['picture', ['picture']],
         ['fullscreen', ['fullscreen']]
-    ]})};
+    ]})
+        $("#edit").attr("style","display:none");
+    $("#save").attr("style","display:show");
+    };
     var temp_save=function(){$("#eg").removeClass("no-padding");
-    var aHTML=$(".click1edit").code();$(".click1edit").destroy()};
+    var aHTML=$(".click1edit").code();$(".click1edit").destroy();
+        $("#save").attr("style","display:none");
+        $("#edit").attr("style","display:show");};
     var edit=function(){$("#eg").addClass("no-padding");$(".click2edit").summernote({lang:"zh-CN",focus:true,toolbar: [
         ['style', ['bold', 'italic', 'underline', 'clear']],
         ['fontsize', ['fontsize']],
@@ -455,7 +461,8 @@
         ['table', ['table']],
         ['picture', ['picture']],
         ['fullscreen', ['fullscreen']]
-    ]})};
+    ]})
+    };
     var save=function(){$("#eg").removeClass("no-padding");
     var aHTML=$(".click2edit").code();};
     $(document).ready(function () {
