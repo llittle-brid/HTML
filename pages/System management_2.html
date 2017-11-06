@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> 机构审核 </title>
+
+    <meta name="viewport" content="width=devicewidth, initialscale=1.0">
+    <meta name="renderer" content="webkit">
+    <![if lt IE 9]>
+    <meta httpequiv="refresh" content="0;ie.html" />
+    <![endif]>
+
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min14ed.css" rel="stylesheet">
+    <link href="../css/font-awesome.min93e3.css?v=4.4.0" rel="stylesheet">
+    <link href="../css/animate.min.css" rel="stylesheet">
+    <link href="../css/style.min862f.css?v=4.1.0" rel="stylesheet">
+    <link rel="stylesheet" href="../css/plugins/wx.css">
+</head>
+
+<body class="gray-bg">
+<!--右侧部分开始-->
+<div id="page-wrapper" class="white-bg dashbard-1">
+    <div class="row border-bottom">
+        <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header"><a  href="#"><img src="../img/logo.png" style="height: 50px;margin: 10px 0px 5px 50px;"> </a>
+            </div>
+
+            <ul class="nav navbar-top-links navbar-right">
+                <a class="dropdown J_tabClose" data-toggle="dropdown">王二狗<span class="caret"></span>
+
+                </a>
+                <ul role="menu" class="dropdown-menu dropdown-menu-right">
+                    <li class="J_tabShowActive"><a>修改个人信息</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li class="J_tabShowActive"><a>系统管理</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li class="J_tabShowActive"><a href="template.html">机构管理</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li class="J_tabCloseAll"><a href="../example/login.html">安全退出</a>
+                    </li>
+                </ul>
+
+                <li class="dropdown hidden-xs">
+                    <a class="right-sidebar-toggle" aria-expanded="false" href="../example/login.html">
+                        <img src="../img/退出.png">
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div>
+        <div class=" row wrapper white-bg">
+            <ol class="breadcrumb" style="margin-left: 40px">
+                <li style="font-size: 15px">
+                    <strong>
+                        <a href="head.html">首页</a> >>系统管理</a>
+                    </strong>
+                </li>
+            </ol>
+        </div>
+
+        <div style="margin-left: 40px">
+            <div class="form-group col-md-1">
+                <table>
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td><button class="btn-warning btn">系统管理</button></td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td><button class="btn-primary btn">机构审核</button></td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                </table>
+            </div>
+
+            <div class="col-md-8">
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+            </div>
+            <form class="col-md-2 col-md-offset-7">
+                <div class="input-group">
+                    <input type="search" name="q" value="" class="form-control" placeholder="搜索机构">
+                    <span class="input-group-btn">
+                    <button type="submit" class="btn btn-warning"><span class="fa fa-search"></span></button>
+                </span>
+                </div>
+            </form>
+
+            <div class="col-md-2 col-md-offset-7">
+                <br/>
+            </div>
+            <div class="col-md-4 col-md-offset-0">
+                <button class="btn-danger btn-w-m">全部同意</button>
+                <button class="btn-default btn-w-m">全部拒绝</button>
+            </div>
+            <div class="col-md-9 mytable">
+                <table class="table table-bordered">
+                    <thead>
+                    <tr>
+                        <th>机构名</th>
+                        <th>机构申请人</th>
+                        <th>邮箱</th>
+                        <th>联系电话</th>
+                        <th>操作</th>
+                    </tr>
+                    </thead>
+
+                    <tbody>
+                    <tr>
+                        <td>需求编辑组一</td>
+                        <td>赖菜一号</td>
+                        <td>001</td>
+                        <td>23</td>
+                        <td>同意/拒绝</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组二</td>
+                        <td>赖菜二号</td>
+                        <td>002</td>
+                        <td>27</td>
+                        <td>同意/拒绝</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组三</td>
+                        <td>赖菜三号</td>
+                        <td>003</td>
+                        <td>65</td>
+                        <td>同意/拒绝</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组四</td>
+                        <td>赖菜四号</td>
+                        <td>004</td>
+                        <td>65</td>
+                        <td>同意/拒绝</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组五</td>
+                        <td>赖菜五号</td>
+                        <td>005</td>
+                        <td>65</td>
+                        <td>同意/拒绝</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+        <div class="btn-group col-md-2 col-md-offset-5">
+        <button type="button" class="btn btn-white"><i class="fa fa-chevron-left"></i>
+        </button>
+        <button class="btn btn-white">1</button>
+        <button class="btn btn-white  active">2</button>
+        <button type="button" class="btn btn-white"><i class="fa fa-chevron-right"></i>
+        </button>
+    </div>
+        <div class="col-md-7 col-md-offset-2">
+            <div class=" form-group">
+                <h3>历史操作记录</h3>
+            </div>
+            <div class="col-md-2 col-md-offset-8">
+                <br/>
+            </div>
+            <div class="col-md-20 mytable">
+                <table class="table table-bordered">
+                    <thead>
+                    <tr>
+                        <th>机构名</th>
+                        <th>机构申请人</th>
+                        <th>操作时间</th>
+                        <th>状态</th>
+                        <th>操作</th>
+                    </tr>
+                    </thead>
+
+                    <tbody>
+                    <tr>
+                        <td>需求编辑组一</td>
+                        <td>老王头</td>
+                        <td>2017-10-10</td>
+                        <td>已拒绝</td>
+                        <td>删除记录/撤销</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组一</td>
+                        <td>老王头</td>
+                        <td>2017-10-10</td>
+                        <td>已拒绝</td>
+                        <td>删除记录/撤销</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组一</td>
+                        <td>老王头</td>
+                        <td>2017-10-10</td>
+                        <td>已拒绝</td>
+                        <td>删除记录/撤销</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组一</td>
+                        <td>老王头</td>
+                        <td>2017-10-10</td>
+                        <td>已拒绝</td>
+                        <td>删除记录/撤销</td>
+                    </tr>
+                    <tr>
+                        <td>需求编辑组一</td>
+                        <td>老王头</td>
+                        <td>2017-10-10</td>
+                        <td>已拒绝</td>
+                        <td>删除记录/撤销</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+        <div class="btn-group col-md-2 col-md-offset-5">
+            <button type="button" class="btn btn-white"><i class="fa fa-chevron-left"></i>
+            </button>
+            <button class="btn btn-white">1</button>
+            <button class="btn btn-white  active">2</button>
+            <button type="button" class="btn btn-white"><i class="fa fa-chevron-right"></i>
+            </button>
+
+</body>
+</html>
