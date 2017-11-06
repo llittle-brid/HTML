@@ -53,29 +53,31 @@
             </ul>
         </nav>
     </div>
-<div>
-    <div class=" row wrapper white-bg">
+
+
+    <div class=" row wrapper white-bg" id="content-main">
         <ol class="breadcrumb" style="margin-left: 40px">
             <li style="font-size: 15px">
                 <strong>
-                    <a href="head.html">首页</a> >><a href="project_myProfile.html">个人中心</a> >><a href="project_myOrganization.html">我的机构</a>
+                    <a href="head.html">首页</a> >><a href="project_myProfile.html">个人中心</a> >><a href="#" class="disabled">我的机构</a>
                 </strong>
             </li>
         </ol>
     </div>
 
-    <div style="margin-left: 40px">
+
         <div class="form-group col-md-1">
-            <table>
-                <tr><td>&nbsp;</td></tr>
-                <tr><td><button class="btn-primary btn">我的资料</button></td></tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr><td><button class="btn-warning btn">我的机构</button></td></tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr><td>&nbsp;</td></tr>
-                <tr><td><button class="btn-primary btn">我的消息</button></td></tr>
-            </table>
+            <ul class="nav navbar">
+                <li>
+                    <a href="project_myProfile.html"><button class="btn-primary btn">我的资料</button></a>
+                </li>
+                <li>
+                    <a href="project_myOrganization.html"><button class="btn-warning btn">我的机构</button></a>
+                </li>
+                <li>
+                    <a href="project_myInformation.html"><button class="btn-primary btn">消息中心</button></a>
+                </li>
+            </ul>
         </div>
 
         <div class="col-md-8">
@@ -85,11 +87,11 @@
             <br/>
             <br/>
         </div>
-        <form class="col-md-2 col-md-offset-7">
+        <form class="col-md-2 col-md-offset-8">
             <div class="input-group">
                 <input type="search" name="q" value="" class="form-control" placeholder="搜索成员">
                 <span class="input-group-btn">
-                    <button type="submit" class="btn btn-warning"><span class="fa fa-search"></span></button>
+                    <button type="submit" class="btn-rounded btn-lg btn-warning"><span class="fa fa-search"></span></button>
                 </span>
             </div>
         </form>
@@ -97,7 +99,7 @@
         <div class="col-md-2 col-md-offset-7">
             <br/>
         </div>
-        <div class="col-md-9 mytable">
+        <div class="col-md-9 col-md-offset-1 mytable">
             <table class="table table-bordered">
                 <thead>
                 <tr>
@@ -156,7 +158,6 @@
 
         </div>
 
-    </div>
 </div>
 
 </body>
