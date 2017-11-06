@@ -56,4 +56,8 @@ textarea {
 }
 .my_input {
     text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    font-size: medium;
+    color: grey;
 }
